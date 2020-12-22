@@ -16,9 +16,9 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 550: Geospatial Data Science in Python"
+title: "Flights during COVID in the US"
 title_separator: "-"
-name: "Nick Hand"
+name: "Jacey Chang"
 description: "Displaying cool data visualizations"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -105,9 +105,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Jacey Chang"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Transportation and Spatial data analysis enthusiast, Chinese music lover"
   location: "Philadelphia"
   email:
   links:
