@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, folium]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
 folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the height
+  folium-chart-1: ["charts/2020byairline.html", "400"] # second argument is the height
   folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the height
 toc: true
 toc_sticky: true
