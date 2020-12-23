@@ -9,7 +9,7 @@ hv-loader:
   hv-chart-1: ["charts/airport_change.html", "500"] # second argument is the height
   hv-chart-2: ["charts/airport_percent_change.html", "500"]
   hv-chart-3: ["charts/percent_change_quant.html", "500"]
-  hv-chart-4: ["charts/airport_covid.html", "500"]
+  hv-chart-4: ["charts/airport_covid.html", "300"]
 toc: true
 toc_sticky: true
 ---
