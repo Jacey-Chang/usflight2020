@@ -25,6 +25,7 @@ Graphics are made with Python hvplot package.
 <div id="hv-chart-2"></div>
 
 <div id="hv-chart-3"></div>
+
 ### Is flight change related with COVID cases?
 
 Below is the COVID cases by week in counties where the airports located.
