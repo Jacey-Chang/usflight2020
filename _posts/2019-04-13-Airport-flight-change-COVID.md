@@ -25,9 +25,11 @@ Graphics are made with Python hvplot package.
 <div id="hv-chart-2"></div>
 
 <div id="hv-chart-3"></div>
-
 ### Is flight change related with COVID cases?
+
 Below is the COVID cases by week in counties where the airports located.
 
 As shown in the figures, there doesn't seem to be a clear relationship between COVID cases and flight change.
+
+Flight quantity and change are more closely related with airport features.
 <div id="hv-chart-4"></div>
