@@ -19,17 +19,11 @@ Below is a chart of the incidence of measles since 1928 for the 50 US states.
 
 <div id="altair-chart-1"></div>
 
-This was produced using Altair and embedded in this static web page. Note that you can also display Python code on this page:
 
+The decline in April and May was sharp, but the flight quantity is steadily rising in the following months.
 
 ### Quantity Change
 <div id="hv-chart-1"></div>
 
 ### Percent Change
 <div id="hv-chart-2"></div>
-## Notes
-
-
-
-
-**Important: When embedding charts, you will likely need to adjust the width/height of the charts before embedding them in the page so they fit nicely when embedded.**
