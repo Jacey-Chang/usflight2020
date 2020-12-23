@@ -2,7 +2,7 @@
 title: "Interactive weekly flights by airline"
 date: 2019-04-13
 published: true
-tags: [dataviz, folium]
+tags: [dataviz, KeplerGL]
 excerpt: "KeplerGL weekly flights by airline"
 folium-loader:
   2020byairline: ["charts/2020byairline.html", "500"] # second argument is the height
@@ -25,10 +25,10 @@ The default airline selection is:
 
 The default week selection is week 10 (beginning with the first Sunday of April)
 
-### 2020 weekly flights by airline from February to September
+### 2020 weekly flights by airline, February to September
 
 <div id="2020byairline"></div>
 
-### 2019 weekly flights by airline from February to September
+### 2019 weekly flights by airline, February to September
 
 <div id="2019byairline"></div>
