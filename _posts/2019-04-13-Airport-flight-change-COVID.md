@@ -7,9 +7,9 @@ excerpt: "Embedding interactive charts on static pages using Jekyll."
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
-  hv-chart-1: ["charts/airport_change.html", "500"] # second argument is the height
-  hv-chart-2: ["charts/airport_percent_change.html", "500"]
-toc: false
+  hv-chart-1: ["charts/airport_change.html", "700"] # second argument is the height
+  hv-chart-2: ["charts/airport_percent_change.html", "700"]
+toc: true
 toc_sticky: true
 ---
 
@@ -21,12 +21,8 @@ Below is a chart of the incidence of measles since 1928 for the 50 US states.
 
 This was produced using Altair and embedded in this static web page. Note that you can also display Python code on this page:
 
-```python
-import altair as alt
-alt.renderers.enable('notebook')
-```
 
-### Quantity Example
+### Quantity Change
 <div id="hv-chart-1"></div>
 
 ### Percent Change
