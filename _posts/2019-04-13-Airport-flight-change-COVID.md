@@ -9,7 +9,7 @@ altair-loader:
 hv-loader:
   hv-chart-1: ["charts/airport_change.html", "500"] # second argument is the height
   hv-chart-2: ["charts/airport_percent_change.html", "500"]
-toc: true
+toc: false
 toc_sticky: true
 ---
 
