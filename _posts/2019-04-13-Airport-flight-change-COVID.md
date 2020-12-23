@@ -9,6 +9,7 @@ hv-loader:
   hv-chart-1: ["charts/airport_change.html", "500"] # second argument is the height
   hv-chart-2: ["charts/airport_percent_change.html", "500"]
   hv-chart-3: ["charts/percent_change_quant.html", "500"]
+  hv-chart-4: ["charts/airport_covid.html", "500"]
 toc: true
 toc_sticky: true
 ---
@@ -24,3 +25,9 @@ Graphics are made with Python hvplot package.
 <div id="hv-chart-2"></div>
 
 <div id="hv-chart-3"></div>
+
+### Is flight change related with COVID cases?
+Below is the COVID cases by week in counties where the airports located.
+
+As shown in the figures, there doesn't seem to be a clear relationship between COVID cases and flight change.
+<div id="hv-chart-4"></div>
