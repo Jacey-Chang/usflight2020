@@ -1,8 +1,8 @@
 ---
 title: "Interactive weekly flights by airline"
-date: 2019-04-14
+date: 2020-12-17
 published: true
-tags: [dataviz, KeplerGL]
+tags: [flights, covid]
 excerpt: "flights by route and airline"
 folium-loader:
   2020byairline: ["charts/2020byairline.html", "500"] # second argument is the height

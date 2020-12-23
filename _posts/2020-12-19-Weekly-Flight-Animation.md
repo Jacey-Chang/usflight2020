@@ -1,8 +1,8 @@
 ---
 title: "Weekly Flights in US, 2019 and 2020"
-date: 2019-04-17
+date: 2020-12-19
 published: true
-tags: [dataviz, flights, covid]
+tags: [flights, covid]
 excerpt: "Animation of weekly US domestic flights from February to September in 2019 and 2020"
 toc: true
 toc_sticky: true
