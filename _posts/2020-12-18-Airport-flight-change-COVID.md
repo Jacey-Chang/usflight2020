@@ -2,7 +2,7 @@
 title: "Airport flight change during COVID"
 date: 2020-12-18
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
+tags: [flights,covid]
 excerpt: "flight change by airport"
 
 hv-loader:
