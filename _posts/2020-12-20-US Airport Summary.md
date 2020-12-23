@@ -18,6 +18,8 @@ The data is scraped from [FAA Report 127](https://cats.airports.faa.gov/Reports/
 
 Using data in 2018 for it is the last complete fiscal year.
 
+Hover your mouse on the airport points to see details.
+
 <div id="altair-chart-1"></div>
 <div id="altair-chart-2"></div>
 <div id="altair-chart-3"></div>

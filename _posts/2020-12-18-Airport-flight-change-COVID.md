@@ -18,6 +18,8 @@ The flight decline in April and May was sharp, but the flight quantity was slowl
 
 Graphics are made with Python hvplot package.
 
+Use mouse wheel to zoom in and out.
+
 ### Quantity Change
 <div id="hv-chart-1"></div>
 
