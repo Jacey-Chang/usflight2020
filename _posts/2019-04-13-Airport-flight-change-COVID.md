@@ -7,8 +7,8 @@ excerpt: "Embedding interactive charts on static pages using Jekyll."
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
-  hv-chart-1: ["charts/airport_change.html", "700"] # second argument is the height
-  hv-chart-2: ["charts/airport_percent_change.html", "700"]
+  hv-chart-1: ["charts/airport_change.html", "500"] # second argument is the height
+  hv-chart-2: ["charts/airport_percent_change.html", "500"]
 toc: true
 toc_sticky: true
 ---
