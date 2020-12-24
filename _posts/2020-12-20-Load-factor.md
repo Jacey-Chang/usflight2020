@@ -7,8 +7,8 @@ excerpt: "load factor (passengers/seats) of routes"
 folium-loader:
   2020load: ["charts/all20_may.html", "500"]
   2019load: ["charts/all19_may.html", "500"]
-  hv-loader:
-    hv-quantile: ["charts/load_factor_quant.html", "300"]
+hv-loader:
+  hv-quantile: ["charts/load_factor_quant.html", "300"]
 toc: true
 toc_sticky: true
 ---
@@ -31,10 +31,14 @@ You can
 
 Click the third button on the top right to see legend.
 
-### 2020 monthly load factor, January to June
+### 2020 monthly load factor
+
+(default month: May)
 
 <div id="2020load"></div>
 
-### 2019 monthly load factor, January to June
+### 2019 monthly load factor
+
+(default month: May)
 
 <div id="2019load"></div>
