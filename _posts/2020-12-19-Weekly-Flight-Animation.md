@@ -13,7 +13,7 @@ Animation of weekly US domestic flights from February to September in 2019 and 2
 
 You can see that although COVID impacts heavily on the aviation industry, US airports are still closely connected.
 
-The linear interpolation colormap gives more accurate demonstration of the quantity change of flights, and log interpolation colormap shows the routes more clearly. The graphics are made with Python datashader package
+The linear interpolation colormap gives more accurate demonstration of the quantity change of flights, and log interpolation colormap shows the routes more clearly.
 
 ### Linear Colormap
 
@@ -22,3 +22,5 @@ The linear interpolation colormap gives more accurate demonstration of the quant
 ### Log Colormap
 
 ![log_colomap]({{ site.url }}{{ site.baseurl }}/assets/images/20192020_log_v.gif)
+
+Graphics are made with Python datashader package.

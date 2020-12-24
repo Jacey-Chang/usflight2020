@@ -11,10 +11,11 @@ toc: true
 toc_sticky: true
 ---
 
+How do the airlines change flight schedule during COVID?
 
-Graphics on this page is made with [KeplerGL](https://github.com/keplergl/kepler.gl)
+Click the *>* on the top left and then the *funnel icon* to change filter condition.
 
-You can click the ">" on the top left and then the funnel icon to change selected airlines and week.
+You can choose *airline(s)* and *week(s)* you would like to see.
 
 Click the third button on the top right to see legend.
 
@@ -32,3 +33,5 @@ The default week selection is week 10 (beginning with the first Sunday of April)
 ### 2019 weekly flights by airline, February to September
 
 <div id="2019byairline"></div>
+
+Graphics on this page is made with [KeplerGL](https://github.com/keplergl/kepler.gl)
