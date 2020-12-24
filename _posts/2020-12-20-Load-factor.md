@@ -1,5 +1,5 @@
 ---
-title: "Are passengers filling the aircraft seats?"
+title: "Are passengers filling the seats?"
 date: 2020-12-20
 published: true
 tags: [flights, covid]
