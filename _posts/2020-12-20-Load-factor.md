@@ -24,7 +24,7 @@ This indicates that there might be a waste of aviation resources.
 <div id="hv-quantile"></div>
 
 
-Click the **>** on the top left and then the **funnel icon** to change the filter condition.
+Click the **">"** on the top left and then the **funnel icon** to change the filter condition.
 
 You can
 - **specify the origin or destination airports**

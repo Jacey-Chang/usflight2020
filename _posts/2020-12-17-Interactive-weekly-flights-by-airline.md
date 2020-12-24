@@ -13,7 +13,7 @@ toc_sticky: true
 
 How do the airlines change flight schedule during COVID?
 
-Click the **>** on the top left and then the **funnel icon** to change filter condition.
+Click the **">"** on the top left and then the **funnel icon** to change filter condition.
 
 You can choose **airline(s)** and **week(s)** you would like to see.
 
