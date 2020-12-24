@@ -7,8 +7,9 @@ excerpt: "load factor (passengers/seats) of routes"
 folium-loader:
   2020load: ["charts/all20_may.html", "500"]
   2019load: ["charts/all19_may.html", "500"]
+
 hv-loader:
-  hv-quantile: ["charts/load_factor_quant.html", "300"]
+  hv-quantile: ["charts/load_factor_quant.html", "330"]
 toc: true
 toc_sticky: true
 ---
@@ -23,11 +24,11 @@ This indicates that there might be a waste of aviation resources.
 <div id="hv-quantile"></div>
 
 
-Click the *>* on the top left and then the *funnel icon* to change the filter condition.
+Click the **>** on the top left and then the **funnel icon** to change the filter condition.
 
 You can
-- *specify the origin or destination airports*
-- *change selected month(s)* (default month is May)
+- **specify the origin or destination airports**
+- **change selected month(s)** (default month is May)
 
 Click the third button on the top right to see legend.
 
